@@ -10,3 +10,11 @@ if ( motDePasseUtilisateur === motDePasseAttendu) {
 } else {
     console.log("Accès refusé. Mot de passe incorrect.");
 }
+const moi = {
+    prenom: "kelian",
+    nom: "combes",
+    age: 19,
+    ville: "paris", 
+    competences: ["HTML", "CSS"]
+};
+console.log ("je m'appelle " + moi.prenom + " " + moi.nom )
