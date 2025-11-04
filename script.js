@@ -18,3 +18,5 @@ const moi = {
     competences: ["HTML", "CSS"]
 };
 console.log ("je m'appelle " + moi.prenom + " " + moi.nom )
+
+const notes = [12, 15, 9, 18];
